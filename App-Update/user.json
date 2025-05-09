@@ -1,11 +1,9 @@
 {
   "title": "New Update",
-  "dis": "We have added new.
-  features and improvements. \n
-  Update now to enjoy the latest version. \n",
+  "dis": "We have added new.\nfeatures and improvements. \nUpdate now to enjoy the latest version. \n",
   "link": "https://Telegram.me/ShimulXD",
-  "appsize": "23MB"
-  "latestupdate" : "09-May-2025"
-  "show": "true",
+  "appsize": "23MB",
+  "latestupdate": "09-May-2025",
+  "show": true,
   "version_code": "5.7"
 }
